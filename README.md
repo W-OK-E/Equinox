@@ -16,6 +16,7 @@
 
 This work was built upon (Animer+)[https://github.com/AniMerPlus/AniMerPlus], credit to the authors. Detailed Citations below:
 
+```bash
 @inproceedings{lyu2025animer,
   title={AniMer: Animal Pose and Shape Estimation Using Family Aware Transformer},
   author={Lyu, Jin and Zhu, Tianyi and Gu, Yi and Lin, Li and Cheng, Pujin and Liu, Yebin and Tang, Xiaoying and An, Liang},
@@ -23,6 +24,9 @@ This work was built upon (Animer+)[https://github.com/AniMerPlus/AniMerPlus], cr
   pages={17486--17496},
   year={2025}
 }
+```
+
+```bash
 @misc{lyu2025animerunifiedposeshape,
       title={AniMer+: Unified Pose and Shape Estimation Across Mammalia and Aves via Family-Aware Transformer}, 
       author={Jin Lyu and Liang An and Li Lin and Pujin Cheng and Yebin Liu and Xiaoying Tang},
@@ -32,3 +36,4 @@ This work was built upon (Animer+)[https://github.com/AniMerPlus/AniMerPlus], cr
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2508.00298}, 
 }
+```
