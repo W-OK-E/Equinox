@@ -14,7 +14,7 @@
 *Animer+ predicts a different topology i.e. it predicts in the SMAL body model's space so a direct comparison on many metrics is not feasible.
 
 
-This work was built upon (Animer+)[https://github.com/AniMerPlus/AniMerPlus], credit to the authors. Detailed Citations below:
+This work was built upon [Animer+](https://github.com/AniMerPlus/AniMerPlus), credit to the authors. Detailed Citations below:
 
 ```bash
 @inproceedings{lyu2025animer,
